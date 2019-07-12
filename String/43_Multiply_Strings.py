@@ -1,3 +1,6 @@
+
+#medium
+#156ms, beats 41.28%
 class Solution:
     def multiply(self, num1: str, num2: str) -> str:
         l=len(num1)+len(num2)
